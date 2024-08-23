@@ -1,0 +1,13 @@
+.card{
+    cursor: pointer; /* Equivalent to 'cursor-pointer' */
+    display: flex; /* Equivalent to 'flex' */
+    flex-direction: column; /* Equivalent to 'flex-col' */
+    align-items: center; /* Equivalent to 'items-center' */
+    background-color: white; /* Equivalent to 'bg-white' */
+    border-radius: 0.5rem; /* Equivalent to 'rounded-lg' (8px or 0.5rem) */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.904); /* Equivalent to 'shadow-lg' */
+    overflow: hidden; /* Equivalent to 'overflow-hidden' */
+    width: 15rem; /* Equivalent to 'w-[15rem]' */
+    margin-left: 0.75rem; /* Equivalent to 'mx-3' (for horizontal margins) */
+    margin-right: 0.75rem; /* Equivalent to 'mx-3' (for horizontal margins) */
+}
