@@ -1,6 +1,9 @@
 import React from 'react'
 import HomeSectionCart from '../HomeSectionCart/HomeSectionCart';
 import AliceCarousel from 'react-alice-carousel';
+import ArrowForwardIosIcon from '@mui/icons-material/ArrowForwardIos';
+import './HomeSectionCarousel.css';
+
 
 function HomeSectionCarousel() {
   const responsive = {
@@ -19,6 +22,9 @@ function HomeSectionCarousel() {
         infinite
         responsive={responsive}
       />
+
+
+
     </div>
 </div>
   )
