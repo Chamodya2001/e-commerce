@@ -1,6 +1,6 @@
 export const MainCarousalData=[
     {
-        image:'/images/1.jpg',
+        image:'/images/3.jpg',
          path:"/women/clothing/lengha_choli"
     },
     {
@@ -8,7 +8,7 @@ export const MainCarousalData=[
          path:"/women/clothing/women_dress"
     },
     {
-        image:"/images/2.jpg",
+        image:"/images/3.jpg",
         path:"/women/clothing/women_dress"
     },
     {
