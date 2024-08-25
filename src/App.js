@@ -3,7 +3,8 @@ import Navigashione from './customer/components/navigashion/navigashion';
 
 // import HomePage from './customer/components/Pages/HomePage/HomePage';
 import Footer1 from './customer/components/Footer/Footer1';
-import ProductCart from './customer/components/Product/ProductCart';
+import Product from './customer/components/Product/Product';
+import { mens_kurta } from './customer/data/Men/men_kurta';
 
 
 
@@ -13,7 +14,7 @@ function App() {
         <Navigashione/>
       <div>
      {/* <HomePage/> */}
-     <ProductCart/>
+ <Product  />
      <div>
       <Footer1/>
      </div>
